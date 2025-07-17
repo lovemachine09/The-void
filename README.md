@@ -13,4 +13,4 @@ Goals
 -Documenting My security journey 
 -Creating the proper mindset to understand attacks and how to defend them
 
-Looking forward to learning more and sharpening my skills. Stay tuned for more and thans for coming out;) 
+Looking forward to learning more and sharpening my skills. Stay tuned for more and thanks for coming out;) 
